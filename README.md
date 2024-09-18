@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swapnil-Patel-exe
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Web Application Pentesting
-- 💞️ I’m looking to collaborate on Instagram, Github, Linkedin
-- 📫 How to reach me - Email(patelswapnil1007@gmail.com)
+- 👀 I’m Experienced IT Professional
+- 🌱 Learning and Exploring the Universe of IT
+- 📫 Reach me - 'Email: swapnildpatel1007@gmail.com' OR 'Linkedin: Swapn1l' 
 
 <!---
 Swapnil-Patel-exe/Swapnil-Patel-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
